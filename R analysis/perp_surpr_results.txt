@@ -1,0 +1,15 @@
+Data: df
+Models:
+mod0: dur ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) + lang
+mod1all1: dur ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) + lang + rnn_perplexity + rnn_surprisal
+mod2all1: dur ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) + lang + rnn_perplexity + rnn_surprisal + lang:rnn_perplexity + lang:rnn_surprisal
+mod3all1: dur ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) + lang + rnn_perplexity + rnn_surprisal + drnn_perplexity + drnn_surprisal + lang:rnn_perplexity + lang:rnn_surprisal
+mod4all1: dur ~ word_len + sent_id_and_idx + word_idx + (1 | participant) + (1 | word) + lang + rnn_perplexity + rnn_surprisal + drnn_perplexity + drnn_surprisal + lang:rnn_perplexity + lang:rnn_surprisal + lang:drnn_perplexity + lang:drnn_surprisal
+         npar    AIC    BIC  logLik deviance   Chisq Df Pr(>Chisq)   
+mod0        8 229374 229448 -114679   229358                         
+mod1all1   10 229365 229458 -114672   229345 12.9537  2   0.001539 **
+mod2all1   12 229365 229477 -114670   229341  4.1456  2   0.125833   
+mod3all1   14 229357 229488 -114665   229329 11.2703  2   0.003570 **
+mod4all1   16 229361 229510 -114664   229329  0.6002  2   0.740754   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

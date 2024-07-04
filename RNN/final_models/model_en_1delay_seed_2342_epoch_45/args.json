@@ -1,0 +1,1 @@
+{"seed": 2342, "language": "en", "delay": 1, "min_frequency": 24, "hidden_dim": 682, "embedding_dim": 426, "lr": 0.001, "input_data": "/home/u802098/en_train_test_data.txt"}

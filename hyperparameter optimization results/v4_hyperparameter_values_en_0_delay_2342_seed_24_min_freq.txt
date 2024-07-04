@@ -1,0 +1,4 @@
+Train loss: 4.7996247454176055   Validation loss: 4.152976364254003   Hyperparameters: {'hidden_dim': 400, 'embedding_dim': 250, 'n_rnn_layers': 1, 'lr': 0.001, 'output_size': 11887}   Epochs: 34
+Train loss: 4.737365494554013   Validation loss: 4.100191781299001   Hyperparameters: {'hidden_dim': 400, 'embedding_dim': 350, 'n_rnn_layers': 1, 'lr': 0.001, 'output_size': 11887}   Epochs: 35
+Train loss: 4.613367720301948   Validation loss: 4.0827583695336305   Hyperparameters: {'hidden_dim': 600, 'embedding_dim': 250, 'n_rnn_layers': 1, 'lr': 0.001, 'output_size': 11887}   Epochs: 39
+Train loss: 4.549921600934894   Validation loss: 4.05122672863503   Hyperparameters: {'hidden_dim': 600, 'embedding_dim': 350, 'n_rnn_layers': 1, 'lr': 0.001, 'output_size': 11887}   Epochs: 40

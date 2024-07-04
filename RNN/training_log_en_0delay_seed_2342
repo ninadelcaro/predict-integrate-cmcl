@@ -1,0 +1,210 @@
+Training on file /home/u802098/en_train_test_data.txt
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.000000 GB
+Cached:   0.000000 GB
+Epoch: 1   Loss: 5.7872 Time: 630.053
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.000000 GB
+Epoch: 2   Loss: 5.4864 Time: 647.635
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 3   Loss: 5.3631 Time: 646.111
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 4   Loss: 5.2712 Time: 640.117
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 5   Loss: 5.1982 Time: 640.263
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 6   Loss: 5.1376 Time: 609.486
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 7   Loss: 5.0862 Time: 616.410
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 8   Loss: 5.0412 Time: 603.511
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 9   Loss: 5.0011 Time: 629.500
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 10   Loss: 4.9650 Time: 638.498
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 11   Loss: 4.9322 Time: 631.139
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 12   Loss: 4.9021 Time: 625.793
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 13   Loss: 4.8740 Time: 625.103
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 14   Loss: 4.8479 Time: 626.823
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 15   Loss: 4.8235 Time: 632.520
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 16   Loss: 4.8007 Time: 624.130
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 17   Loss: 4.7790 Time: 627.348
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 18   Loss: 4.7589 Time: 636.291
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 19   Loss: 4.7396 Time: 623.234
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 20   Loss: 4.7214 Time: 640.466
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 21   Loss: 4.7039 Time: 625.921
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 22   Loss: 4.6874 Time: 628.371
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 23   Loss: 4.6717 Time: 637.574
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 24   Loss: 4.6563 Time: 637.006
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 25   Loss: 4.6419 Time: 636.469
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 26   Loss: 4.6279 Time: 629.179
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 27   Loss: 4.6145 Time: 629.623
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 28   Loss: 4.6016 Time: 637.729
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 29   Loss: 4.5892 Time: 625.013
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 30   Loss: 4.5771 Time: 629.110
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 31   Loss: 4.5655 Time: 628.075
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 32   Loss: 4.5542 Time: 630.545
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 33   Loss: 4.5433 Time: 631.285
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 34   Loss: 4.5327 Time: 637.047
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 35   Loss: 4.5224 Time: 641.260
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 36   Loss: 4.5123 Time: 641.336
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 37   Loss: 4.5027 Time: 579.887
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 38   Loss: 4.4933 Time: 559.015
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 39   Loss: 4.4841 Time: 566.478
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 40   Loss: 4.4750 Time: 568.151
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
+Epoch: 41   Loss: 4.4663 Time: 573.105
+Using cuda: NVIDIA A40
+Memory Usage:
+Allocated: 0.400000 GB
+Cached:   1.200000 GB
